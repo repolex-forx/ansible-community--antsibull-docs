@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ansible-community/antsibull-docs/commit/389734f265a8093845176afefe4fd5e6dedc1fc0",
       "git:hexsha": "389734f265a8093845176afefe4fd5e6dedc1fc0",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-06T16:06:36.825568+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ansible-community/antsibull-docs/commit/f7251e60ad588b8d9f09efb28278d3e5530a1f91",
